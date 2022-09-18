@@ -1,0 +1,79 @@
+body{
+    font-family: Helvetica, sans-serif;
+    color: white;
+    margin-top: 130px;
+    background-repeat: no-repeat;
+    background-color:blue;
+}
+
+h1{
+    font-size: 100px;
+}
+
+section{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    position:relative;
+}
+
+.one{
+position: absolute;
+top:50px;
+/* background-color: black; */
+left:170.8px;
+}
+
+.two{
+    position: absolute;
+    top:100px;
+/* background-color: black; */
+left:170.8px;
+}
+
+.three{
+    position: absolute;
+    top:150px;
+/* background-color: black; */
+left:170.8px;
+}
+
+.four{
+    position: absolute;
+    top:200px;
+/* background-color: black; */
+left:170.8px;
+}
+
+.five{
+    position: absolute;
+    top:250px;
+/* background-color: black; */
+left:170.8px;
+}
+
+.six{
+    position: absolute;
+    top:300px;
+/* background-color: black; */
+left:170.8px;
+}
+
+.seven{
+    position: absolute;
+    top:350px;
+/* background-color: black; */
+left:170.8px;
+/* border-bottom: 8px solid white; */
+}
+
+/* .circle{
+    width:50px;
+    height:50px;
+    background-color: white;
+    border-radius: 50%;
+    position: absolute;
+    top:10px;
+    background-color:white;
+} */
